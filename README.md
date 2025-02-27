@@ -1,52 +1,44 @@
-# Hi there, I'm Congtie! 👋
+# Hi there, I'm Alexandru Coman! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills.
+## 💻 About Me
+I'm a passionate Computer Science student at the University of Bucharest, currently in my second year. I have a strong background in software development, competitive programming, and web technologies. I love solving problems, learning new technologies, and building innovative projects.
 
-## 🔧 Technologies & Tools
+## 🎓 Education
+- **B.Sc. in Computer Science** (2026) - University of Bucharest
+- Strong foundation in algorithms, data structures, OOP, and low-level systems (Linux, memory management, and process handling).
 
-- **Programming Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js, Django
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Docker, Git, GitHub, VS Code, AWS
+## 🚀 Projects
+### 🎮 Game Development
+- **[Pong & Tetris in C++ (OOP)](https://github.com/Congtie/Pong)** – Built using Raylib, applying object-oriented programming principles.
 
-## 🛠️ Projects
+### 🌐 Web Development
+- **[Breaking Bad Wiki](https://github.com/Congtie/BreakingBadSite)** – Web platform using HTML, CSS, JavaScript, and Node.js, integrating a REST API.
+- **Shoe Store** – E-commerce platform built with Django, providing inventory and order management functionalities.
 
-### [Project Name 1](https://github.com/Congtie/project1)
-A brief description of Project Name 1. Highlight the main features and technologies used.
+### 📊 Database & Backend
+- **Theme Park Database** – SQL Oracle project using SQL and PL/SQL for data management.
 
-### [Project Name 2](https://github.com/Congtie/project2)
-A brief description of Project Name 2. Highlight the main features and technologies used.
+## 🏆 Awards & Competitions
+- Competed in **Nitro NLP 2024, FMI NoStress, and Eindhoven Algorithmic Programming Contest (EAPC)**.
+- Participated in multiple hackathons, solving real-world problems using AI and advanced algorithms.
 
-### [Project Name 3](https://github.com/Congtie/project3)
-A brief description of Project Name 3. Highlight the main features and technologies used.
+## 🛠️ Skills & Technologies
+- **Programming Languages:** C/C++, Python, Java, JavaScript
+- **Web Development:** Django, Node.js, HTML, CSS
+- **Databases:** SQL, PL/SQL
+- **System & Tools:** Linux, Git, Bash
 
-## 📈 GitHub Stats
+## 📜 Certifications
+- **Machine Learning A-Z: AI, Python & R + ChatGPT Prize (Udemy, 2025)**
+- **Java Masterclass 2025: 130+ Hours of Expert Lessons (Udemy)**
+- **Master the Coding Interview: Data Structures + Algorithms (Udemy)**
+- **100 Days of Code: The Complete Python Pro Bootcamp (Udemy)**
+- **Cambridge English: Advanced (CAE) – C1 Level**
 
-![Congtie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Congtie&show_icons=true&theme=radical)
+## 📫 Connect With Me
+- **GitHub:** [Congtie](https://github.com/Congtie)
+- **LinkedIn:** [Alexandru Coman](https://www.linkedin.com/in/comanioanalexandru/)
+- **Email:** alexandru.coman0109@gmail.com
 
-## 📫 How to reach me
+🚀 Always open to new opportunities and collaborations! Let's build something great together. 😊
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-
-## 🌱 Interests
-
-- Open Source Contributions
-- Machine Learning & AI
-- Cloud Computing
-- Web Development
-
-## 📚 Blog & Writing
-
-Check out my blog where I write about programming, technology, and my personal projects.
-
-- [Your Blog Name](https://yourblog.com)
-
-## 💬 Let's Connect!
-
-Feel free to reach out if you want to discuss technology, share ideas, or collaborate on projects. I'm always open to new opportunities and connections!
-
----
-
-*This README was generated with ❤️ by [GitHub Copilot](https://github.com/features/copilot)*
